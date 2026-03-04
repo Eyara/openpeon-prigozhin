@@ -1,0 +1,94 @@
+{
+  "cesp_version": "1.0",
+  "name": "prigozhin",
+  "display_name": "Uncle Zhenya",
+  "version": "1.0.0",
+  "author": {
+    "name": "eyara",
+    "github": "eyara"
+  },
+  "license": "CC-BY-NC-4.0",
+  "language": "en",
+  "categories": {
+    "session.start": {
+      "sounds": [
+        {
+          "file": "sounds/PrigozhinStart1.mp3",
+          "label": "Привет, это кто?"
+        },
+        {
+          "file": "sounds/PrigozhinStart2.mp3",
+          "label": "Яматэ Кудосай."
+        },
+        {
+          "file": "sounds/PrigozhinStart3.mp3",
+          "label": "Ааа, здорово."
+        }
+      ]
+    },
+    "task.acknowledge": {
+      "sounds": [
+        {
+          "file": "sounds/PrigozhinAcknowledge1.mp3",
+          "label": "Работаем, температура +50."
+        },
+        {
+          "file": "sounds/PrigozhinAcknowledge2.mp3",
+          "label": "Ааа, ну ладно."
+        },
+        {
+          "file": "sounds/PrigozhinAcknowledge3.mp3",
+          "label": "Ясно."
+        }
+      ]
+    },
+    "task.complete": {
+      "sounds": [
+        {
+          "file": "sounds/PrigozhinTaskCompleted1.mp3",
+          "label": "Нихрена себе"
+        },
+        {
+          "file": "sounds/PrigozhinTaskCompleted2.mp3",
+          "label": "Замечательно, да."
+        }
+      ]
+    },
+    "task.error": {
+      "sounds": [
+        {
+          "file": "sounds/PrigozhinTaskError1.mp3",
+          "label": "А мы и не думали."
+        }
+      ]
+    },
+    "input.required": {
+      "sounds": [
+        {
+          "file": "sounds/PrigozhinInputReqiured1.mp3",
+          "label": "А че Крым-то не берёте?"
+        },
+        {
+          "file": "sounds/PrigozhinInputReqiured2.mp3",
+          "label": "И потому как гражданин, я глубоко возмущён."
+        }
+      ]
+    },
+    "resource.limit": {
+      "sounds": [
+        {
+          "file": "sounds/PrigozhinResourceLimit1.mp3",
+          "label": "Где боеприпасы?"
+        }
+      ]
+    },
+    "user.spam": {
+      "sounds": [
+        {
+          "file": "sounds/PrigozhinUserSpam1.mp3",
+          "label": "Вы что творите?"
+        }
+      ]
+    }
+  }
+}
