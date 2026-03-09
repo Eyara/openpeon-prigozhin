@@ -1,7 +1,7 @@
 {
   "cesp_version": "1.0",
   "name": "prigozhin",
-  "display_name": "Uncle Zhenya",
+  "display_name": "prigozhin",
   "version": "1.0.0",
   "author": {
     "name": "eyara",
@@ -14,15 +14,18 @@
       "sounds": [
         {
           "file": "sounds/PrigozhinStart1.mp3",
-          "label": "Привет, это кто?"
+          "label": "Привет, это кто?",
+          "sha256": "c8544bcf44434c4f6d2de6e9a37b08ad0e3bfa453caa0630591527cc97c3cb28"
         },
         {
           "file": "sounds/PrigozhinStart2.mp3",
-          "label": "Яматэ Кудосай."
+          "label": "Яматэ Кудосай.",
+          "sha256": "41126cde9eddec6b38fcc5202abc29511283295bdaa7be52d3fa07b9f4a0b583"
         },
         {
           "file": "sounds/PrigozhinStart3.mp3",
-          "label": "Ааа, здорово."
+          "label": "Ааа, здорово.",
+          "sha256": "cb3318a696c0f2918f649e171902aa44079c9867bb2dbff6f9dc2921eb315cb5"
         }
       ]
     },
@@ -30,15 +33,18 @@
       "sounds": [
         {
           "file": "sounds/PrigozhinAcknowledge1.mp3",
-          "label": "Работаем, температура +50."
+          "label": "Работаем, температура +50.",
+          "sha256": "893da5262b777a66d0beb5347c75d3732ce80c44f86cfd1b78dc03f9188ffbec"
         },
         {
           "file": "sounds/PrigozhinAcknowledge2.mp3",
-          "label": "Ааа, ну ладно."
+          "label": "Ааа, ну ладно.",
+          "sha256": "803feebf6dc49f9906f9f1c46293c2c74c7fad6c72b4c619f402976711202631"
         },
         {
           "file": "sounds/PrigozhinAcknowledge3.mp3",
-          "label": "Ясно."
+          "label": "Ясно.",
+          "sha256": "6fbdf811970a1c0d2dbc4a66a3d4657f120544bc59c77119f1a6e66a4434cd58"
         }
       ]
     },
@@ -46,11 +52,23 @@
       "sounds": [
         {
           "file": "sounds/PrigozhinTaskCompleted1.mp3",
-          "label": "Нихрена себе"
+          "label": "Нихрена себе",
+          "sha256": "e01a5820efdad61eb47038d5fa995b0fe544255159eaddde1ca4eb801b31c13b"
         },
         {
           "file": "sounds/PrigozhinTaskCompleted2.mp3",
-          "label": "Замечательно, да."
+          "label": "Замечательно, да.",
+          "sha256": "49d30f82575d7bda0dd3fca143b78d72e1301c2006a293bde84b064258b6041e"
+        },
+        {
+          "file": "sounds/PrigozhinTaskCompleted3.mp3",
+          "label": "Иди воевать.",
+          "sha256": "c59b8704d430a83ab28b2a68bd1fb9fdf677cd227dd311ff9b8d72ee83b183e2"
+        },
+        {
+          "file": "sounds/PrigozhinTaskCompleted4.mp3",
+          "label": "Давай, обнимаю тебя.",
+          "sha256": "49592c03795430a4b47ab6eec6cac12d123cf554484694747270059e5feb4b32"
         }
       ]
     },
@@ -58,7 +76,13 @@
       "sounds": [
         {
           "file": "sounds/PrigozhinTaskError1.mp3",
-          "label": "А мы и не думали."
+          "label": "А мы и не думали.",
+          "sha256": "b333dc1a29d0c8ebf5435a6ac01352fa9c8cb93018ae5ce94e47818a8e9fae85"
+        },
+        {
+          "file": "sounds/PrigozhinTaskError2.mp3",
+          "label": "Братан, не могу.",
+          "sha256": "7cc9572e4366ec9c33abf4a60dd24eb22d3ceaa17c15278dfd614f85e60c41de"
         }
       ]
     },
@@ -66,11 +90,13 @@
       "sounds": [
         {
           "file": "sounds/PrigozhinInputReqiured1.mp3",
-          "label": "А че Крым-то не берёте?"
+          "label": "А че Крым-то не берёте?",
+          "sha256": "3b4f14924a3d25bcef9fdf152e15043237f535ddb3abd538422a4472fd6f1a3e"
         },
         {
           "file": "sounds/PrigozhinInputReqiured2.mp3",
-          "label": "И потому как гражданин, я глубоко возмущён."
+          "label": "И потому как гражданин, я глубоко возмущён.",
+          "sha256": "c6363b7d9f1049a38a083c52a24b8e0b07344e514b55f14f0f76bedb54c1f0e6"
         }
       ]
     },
@@ -78,7 +104,8 @@
       "sounds": [
         {
           "file": "sounds/PrigozhinResourceLimit1.mp3",
-          "label": "Где боеприпасы?"
+          "label": "Где боеприпасы?",
+          "sha256": "584b0364fe13676f1ecfbdefd457b8ded2f1ab6a67590ac342ef560ef134731d"
         }
       ]
     },
@@ -86,7 +113,8 @@
       "sounds": [
         {
           "file": "sounds/PrigozhinUserSpam1.mp3",
-          "label": "Вы что творите?"
+          "label": "Вы что творите?",
+          "sha256": "d8ae79235f6e8e4108a42a2151a52590bb8829e868443c8c7a1fc7ed6b07022b"
         }
       ]
     }
